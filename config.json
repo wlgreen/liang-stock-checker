@@ -1,0 +1,11 @@
+{
+  "runHeadless": true,
+  "notifyOnNodeNotFound": true,
+  "pushoverApiKey": "",
+  "pushoverUserKey": "",
+  "pushoverEnabled": false,
+  "gmailUser": "wlgreen11@gmail.com",
+  "gmailPassword": "fnnowhlwgtfogiwt",
+  "gmailTo": "wlgreen11@gmail.com",
+  "gmailEnabled": true
+}
